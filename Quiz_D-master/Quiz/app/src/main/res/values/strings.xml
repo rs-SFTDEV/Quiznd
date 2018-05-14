@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="q00">The Battle of Plassey was fought in</string>
+    <string name="q10"> Under Akbar, the Mir Bakshi was required to look after</string>
+    <string name="q20">Tripitakas are sacred books of</string>
+    <string name="q30">Which of the gas is not known as greenhouse gas?</string>
+    <string name="q40">The minimum age of the voter in India is</string>
+    <string name="q0">Question 1</string>
+    <string name="q1">Question 2</string>
+    <string name="q2">Question 3</string>
+    <string name="q3">Question 4</string>
+    <string name="q4">Question 5</string>
+    <string name="r00">1782</string>
+    <string name="r01">1757</string>
+    <string name="r02">1748</string>
+    <string name="r03">1764</string>
+    <string name="r10">The royal household</string>
+    <string name="r11">The state treasury</string>
+    <string name="r12">Military affairs</string>
+    <string name="r13">the land revenue system</string>
+    <string name="r20">Buddhists</string>
+    <string name="r21">Hindus</string>
+    <string name="r22">Jains</string>
+    <string name="r23">None of the above</string>
+    <string name="r30">Carbon dioxide</string>
+    <string name="r31">Nitrous oxide</string>
+    <string name="r32">Hydrogen</string>
+    <string name="r33">Methane</string>
+    <string name="r40">15 years</string>
+    <string name="r41">21 years</string>
+    <string name="r42">25 years</string>
+    <string name="r43">18 years</string>
+    <string name="a0">1757</string>
+    <string name="a1">Military affairs</string>
+    <string name="a2">Buddhists</string>
+    <string name="a3">Hydrogen</string>
+    <string name="a4">18 years</string>
+    <string-array name="qno">
+        <item>@string/q0</item>
+        <item>@string/q1</item>
+        <item>@string/q2</item>
+        <item>@string/q3</item>
+        <item>@string/q4</item>
+    </string-array>
+    <string-array name="qn">
+        <item>@string/q00</item>
+        <item>@string/q10</item>
+        <item>@string/q20</item>
+        <item>@string/q30</item>
+        <item>@string/q40</item>
+    </string-array>
+    <string-array name="ans">
+        <item>@string/a0</item>
+        <item>@string/a1</item>
+        <item>@string/a2</item>
+        <item>@string/a3</item>
+        <item>@string/a4</item>
+    </string-array>
+    <string-array name="r0">
+        <item>@string/r00</item>
+        <item>@string/r10</item>
+        <item>@string/r20</item>
+        <item>@string/r30</item>
+        <item>@string/r40</item>
+    </string-array>
+    <string-array name="r1">
+        <item>@string/r01</item>
+        <item>@string/r11</item>
+        <item>@string/r21</item>
+        <item>@string/r31</item>
+        <item>@string/r41</item>
+    </string-array>
+    <string-array name="r2">
+        <item>@string/r02</item>
+        <item>@string/r12</item>
+        <item>@string/r22</item>
+        <item>@string/r32</item>
+        <item>@string/r42</item>
+    </string-array>
+    <string-array name="r3">
+        <item>@string/r03</item>
+        <item>@string/r13</item>
+        <item>@string/r23</item>
+        <item>@string/r33</item>
+        <item>@string/r43</item>
+    </string-array>
+</resources>
